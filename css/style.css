@@ -19,7 +19,7 @@ section {
 h1 {
   font-family: sans-serif;
   font-size: 2em;
-  font-weight:bolder; 
+  font-weight:bolder;
 }
 
 .example, h3 {
@@ -31,7 +31,12 @@ h3 {
   font-size: 1.3em;
   font-weight: bold;
 }
-
+.element {
+  background-color: green;
+  height: 100px;
+  margin 10px 0;
+  width: 100%;
+}
 .element1 {
   background-color: violet;
   height: 100px;
